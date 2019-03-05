@@ -4,6 +4,8 @@
   "description": "Kevin's first blockchain with TypeScript",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/kevink1103/kevchain/issues"
   },
-  "homepage": "https://github.com/kevink1103/kevchain#readme"
+  "homepage": "https://github.com/kevink1103/kevchain#readme",
+  "devDependencies": {
+    "tsc-watch": "^2.1.2"
+  }
 }
