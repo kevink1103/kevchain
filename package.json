@@ -1,0 +1,19 @@
+{
+  "name": "kevchain",
+  "version": "1.0.0",
+  "description": "Kevin's first blockchain with TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevink1103/kevchain.git"
+  },
+  "author": "Kevin Kim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevink1103/kevchain/issues"
+  },
+  "homepage": "https://github.com/kevink1103/kevchain#readme"
+}

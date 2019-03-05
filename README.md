@@ -1,3 +1,3 @@
 # KEVCHAIN
 
-Hello
+Kevin's first blockchain with TypeScript
